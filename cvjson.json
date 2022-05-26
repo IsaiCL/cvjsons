@@ -1,0 +1,26 @@
+{
+  "name": "Isai Chi Lanestoza",
+  "cellphone": "9841903919",
+  "dateOfBirth": "On February 14, 2002",
+  "email": "sansens140@gmail.com",
+  "requiredPosition": "Web Programmer",
+  "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum at mauris a blandit. Proin aliquet viverra risus, vitae efficitur ipsum efficitur eget. Proin eget neque diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut dictum ex, eu sollicitudin neque. Morbi accumsan ultrices odio vitae tristique. Aenean sed accumsan erat. Donec vestibulum congue diam id laoreet. Cras vestibulum odio convallis lacus rhoncus, non dolor.",
+  "languages": ["javascript", "html", "css"],
+
+  "databases": ["Mysql", "MariaDB"],
+
+  "frameworks": ["VueJS", "Bootstrap"],
+
+  "officeParcel": ["excel", "powerpoint", "word"],
+
+  "business": "none",
+  "position": "none",
+  "dateOfAdmision": "none",
+  "endDatework": "none",
+  "responsabilities": "none",
+
+  "school": "Universidad Tecnológica de la Riviera Maya",
+  "studyGrade": "TSU en Desarrollo de Software Multiplataforma",
+  "dateOfAdmission": "On August 20, 2020",
+  "endDate": "On December 16, 2022"
+}
